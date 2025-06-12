@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Akihabara.config"},{"l":"Akihabara.controller"},{"l":"Akihabara.dao"},{"l":"Akihabara.model"},{"l":"Akihabara.services"},{"l":"Akihabara.test"},{"l":"Akihabara.view"},{"l":"All Packages","u":"allpackages-index.html"}];updateSearchResults();
